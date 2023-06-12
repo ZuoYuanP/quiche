@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -z "$1" ]]; then
-    URL="https://192.168.50.4:4433/index.html"
+    URL="https://192.168.96.131:4433/index.html"
 else
     URL="$1"
 fi
